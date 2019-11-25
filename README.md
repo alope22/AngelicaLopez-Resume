@@ -1,1 +1,1 @@
-![Resume Preview!] (img/Screenshot.PNG)
+! [Resume Preview!](img/Screenshot.PNG)
